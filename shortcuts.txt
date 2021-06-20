@@ -1,0 +1,16 @@
+ctrl+shift+/ = comments
+ctrl+shift+v = clear copy
+
+* in css = universal selector
+
+mx-auto (center)
+ml-auto (right)
+mr-auto (left)
+
+jumbotron - attracts the user to this part of the page
+
+ctrl+shift+m (mobile view in Microsoft Edge)
+
+px = pixel
+
+vh = viewport height
